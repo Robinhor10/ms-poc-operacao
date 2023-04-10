@@ -1,0 +1,19 @@
+{
+    "namespace": "com.br.controller",
+    "type": "record",
+    "name": "Risco",
+    "fields": [
+      {
+        "name": "id_cadastro",
+        "type": "string"
+      },
+      {
+        "name": "id_documento",
+        "type": "string"
+      },
+      {
+        "name": "registro",
+        "type": "string"
+      }
+    ]
+  }
